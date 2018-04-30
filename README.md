@@ -6,7 +6,7 @@
  - OpenAdaptronik
  - Prusa Dolly
  - MPCNC
- - InMov
+ - InMoov
 
 ## Wiki
 
