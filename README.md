@@ -4,7 +4,8 @@
 ## Projects
 
  - OpenAdaptronik
- - Prusa Dolly
+ - Prusa MK2 Dolly
+ - Prusa MK3 Dolly
  - MPCNC
  - InMoov
 
